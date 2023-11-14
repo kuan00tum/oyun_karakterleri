@@ -1,0 +1,5 @@
+class Sut{
+  sut(adi){
+    
+  }
+}

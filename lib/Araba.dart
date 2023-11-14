@@ -1,0 +1,5 @@
+class Araba{
+  araba(adi){
+    
+  }
+}

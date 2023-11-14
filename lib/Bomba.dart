@@ -1,0 +1,6 @@
+
+class Bomba{
+  bomba(adi){
+    
+  }
+}

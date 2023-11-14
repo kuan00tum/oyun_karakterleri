@@ -1,0 +1,5 @@
+class Kafa{
+  kafa(adi){
+    
+  }
+}
